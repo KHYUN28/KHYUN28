@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=KKH's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
+<!--
 ## DEV's Blog
 <div style="display:flex; flex-direction:row;">
     <a href="velog.io/@kkh30123">
@@ -16,7 +17,7 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
-
+-->
 
 ## DEV's Used
 <div style="display:flex; flex-direction:row;">

@@ -35,11 +35,12 @@
 </div><br>
 
 
-<div style="display:flex; flex-direction:row;">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHYUN28&layout=compact)](https://github.com/KHYUN28/github-readme-stats)
+
+    <br>
     
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHYUN28&show_icons=true&theme=radical)
-</div><br>
+
 
 
 

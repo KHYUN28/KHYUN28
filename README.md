@@ -11,15 +11,15 @@
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=black">
 
 
-
-// <img src="https://img.shields.io/badge/ - ?style=for-the-badge&logo= &logoColor=white">
+<!--
 <img src="https://img.shields.io/badge/ - ?style=for-the-badge&logo= &logoColor=white">
 <img src="https://img.shields.io/badge/ - ?style=for-the-badge&logo= &logoColor=white">
 <img src="https://img.shields.io/badge/ - ?style=for-the-badge&logo= &logoColor=white">
 <img src="https://img.shields.io/badge/ - ?style=for-the-badge&logo= &logoColor=white">
 <img src="https://img.shields.io/badge/ - ?style=for-the-badge&logo= &logoColor=white">
 <img src="https://img.shields.io/badge/ - ?style=for-the-badge&logo= &logoColor=white">
-
+<img src="https://img.shields.io/badge/ - ?style=for-the-badge&logo= &logoColor=white">
+-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHYUN28&layout=compact)](https://github.com/KHYUN28/github-readme-stats)

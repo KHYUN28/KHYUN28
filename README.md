@@ -4,7 +4,7 @@
 
 ## DEV's Blog
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:velog.io/@kkh30123/series">
+    <a href="velog.io/@kkh30123/series">
         <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
     </a>
 </div><br>

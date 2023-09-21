@@ -20,7 +20,7 @@
 
 ## DEV's Used
 
-  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=black">
+<div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-F7DF24?style=for-the-badge&logo=java&logoColor=white">
@@ -32,6 +32,9 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+
+</div><br>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHYUN28&layout=compact)](https://github.com/KHYUN28/github-readme-stats)

@@ -26,8 +26,9 @@
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
   
   <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHYUN28&layout=compact)](https://github.com/KHYUN28/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHYUN28&show_icons=true&theme=radical)
+</p>

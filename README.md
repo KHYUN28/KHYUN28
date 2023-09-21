@@ -11,7 +11,7 @@
   
   <img src="https://img.shields.io/badge/java-F7DF24?style=for-the-badge&logo=java&logoColor=white">
   
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <br>
   
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   
@@ -21,14 +21,14 @@
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
   
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
   
   <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHYUN28&layout=compact)](https://github.com/KHYUN28/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHYUN28&show_icons=true&theme=radical)
-</p>
+
